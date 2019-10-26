@@ -1,0 +1,22 @@
+{
+  "Concepts": [
+    "medication",
+    "Disease",
+    "symptom",
+    "Cause"
+  ],
+  "Disease": [
+    "cancer",
+    "Fever",
+    "Chicken pox"
+  ],
+  "Medication": [
+    "ibuprofen",
+    "paracetamol"
+  ],
+  "Symptoms": [
+    "cold",
+    "headache",
+    "pain"
+  ]
+}
